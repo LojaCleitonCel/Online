@@ -400,10 +400,8 @@ input[type=text]{
   color: #fff;
   padding: 10px 50px 10px 5px;
   background-color: transparent;
-  border-top-color: transparent;
-  border-left: transparent;
-  border-right: transparent;
-  border-bottom-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 10px;
 }
 
 input[type=text]::placeholder{
